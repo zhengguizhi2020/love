@@ -2,15 +2,15 @@ package com.nnxy.student;
 /**
  * @author zhengguizhi
  * create date :2019/5/16
- * description :ѧ����ʵ����
+ * description :Ñ§ÉúµÄÊµÌåÀà
  * 
  */
 
 public class Studentmodel {
-	private int id;
-	private String username;
-	private int sxe;
-	private int age;
+	private int id;//ID
+	private String username;//用户名
+	private int sxe;//性别
+	private int age;//年龄
 	
 	
 	@Override
